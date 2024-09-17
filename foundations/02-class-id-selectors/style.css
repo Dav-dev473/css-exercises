@@ -1,0 +1,16 @@
+p.class-1, .class-2, .class-3{
+    background-color: pink;
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+p.class-2 {
+    font-size: 24px;
+}
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+#number-4 {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
